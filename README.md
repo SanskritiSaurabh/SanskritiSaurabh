@@ -7,6 +7,7 @@
 
 ---
 # 📊 **GitHub Analytics**
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanskritiSaurabh&theme=github-compact&custom_title=SANSKRITI%20Activity%20Graph&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SanskritiSaurabh&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiSaurabh&layout=compact&theme=dark&hide_border=true)](https://github.com/SanskritiSaurabh)  
 
