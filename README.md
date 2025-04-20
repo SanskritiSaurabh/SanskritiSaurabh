@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-saurabh/)  
 
 ## Hi there 👋🏻 I'm **Sanskriti**, a Computer Science student
-As a student passionate about Software Engineering and Artifitial Intelligence/Machine Learning, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software & AI/ML. My dream is to become a Software Engineer at **Apple**.
+As a student passionate about Software Engineering and Artifitial Intelligence/Machine Learning, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software & AI/ML.
 
 
 
